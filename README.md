@@ -4,7 +4,7 @@
 - I'm a computer technician💻🤓
 - Actually in 3rd period of Telematic on IFPB📚🖊
 
-- Technology lover and always trying to beat news challenges
+#### Technology lover and always trying to beat news challenges
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Henrique-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-henrique-898765206/)](https://www.linkedin.com/in/luiz-henrique-898765206/) 
