@@ -1,4 +1,3 @@
-![Homem Letra](https://github.com/luizhfcb/luizhfcb/blob/main/homemletra.gif)
 ## Hey, welcome to my profile👋 
 - My name is Luiz Henrique
 - i'm from Brazil🇧🇷
