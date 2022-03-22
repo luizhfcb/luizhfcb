@@ -53,7 +53,7 @@ CREATE TABLE AVALIACAO (
 	CONSTRAINT avaliacao_filme_id_fk FOREIGN KEY (filme_id) REFERENCES FILME (id_filme)
 );
 	
-INSERT INTO USUARIO VALUES (1,'Cristovão Colombo', '01/10/1981', 'M', 'cristovao_navegador@caravela.com.it');
+INSERT INTO USUARIO VALUES (1,'Cristovão Colombo', '01-10-1981', 'M', 'cristovao_navegador@caravela.com.it');
 INSERT INTO USUARIO VALUES (2,'Napoleão Bonaparte', '1970-08-15', 'M', 'boninho_imperador@guerra.com.fr');
 INSERT INTO USUARIO VALUES (3,'Joana Darc', '1981-01-16', 'F', 'joana_heroina@guerra.com.fr');
 INSERT INTO USUARIO VALUES (4,'Cleópatra Thea', '1950-08-12', 'F', 'cleo_de_alexandria@reino.com.eg');
