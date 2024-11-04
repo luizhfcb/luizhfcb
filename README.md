@@ -2,7 +2,7 @@
 - My name is Luiz Henrique
 - i'm from Brazil🇧🇷
 - I'm a computer technician💻🤓
-- Actually in 3rd period of Telematic on IFPB📚🖊
+- Actually in 1rd period of Sistemas de Informação on Unifacisa📚🖊
 
 #### Technology lover and always trying to beat news challenges
 
